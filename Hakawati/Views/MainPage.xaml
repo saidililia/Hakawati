@@ -2,40 +2,49 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Hakawati.MainPage">
-			 
-    <ScrollView>
-        <VerticalStackLayout 
-            Spacing="25" 
-            Padding="30,0" 
-            VerticalOptions="Center">
 
-            <Image
-                Source="dotnet_bot.png"
-                SemanticProperties.Description="Cute dot net bot waving hi to you!"
-                HeightRequest="200"
-                HorizontalOptions="Center" />
-                
-            <Label 
-                Text="Hello, World!"
-                SemanticProperties.HeadingLevel="Level1"
-                FontSize="32"
-                HorizontalOptions="Center" />
-            
-            <Label 
-                Text="Welcome to .NET Multi-platform App UI"
-                SemanticProperties.HeadingLevel="Level2"
-                SemanticProperties.Description="Welcome to dot net Multi platform App U I"
-                FontSize="18"
-                HorizontalOptions="Center" />
+    <StackLayout BackgroundColor="BlueViolet" >
+        <Image Source="image.jpg" BackgroundColor="AntiqueWhite"/>
+        <Grid Padding="3">
+          
+            <Grid.RowDefinitions>
+                    <RowDefinition Height="150"/>
+                    <RowDefinition Height="45"/>
+                    <RowDefinition Height="150"/>
+                    <RowDefinition Height="45"/>
+                </Grid.RowDefinitions>
 
-            <Button 
-                x:Name="CounterBtn"
-                Text="Click me"
-                SemanticProperties.Hint="Counts the number of times you click"
-                Clicked="OnCounterClicked"
-                HorizontalOptions="Center" />
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="117"/>
+                <ColumnDefinition Width="117"/>
+                <ColumnDefinition Width="117"/>
+            </Grid.ColumnDefinitions>
+            <ImageButton  x:Name="FirstButton"  Grid.Row="0" Grid.Column="0" Margin="5" 
+            Source="rock.svg" BackgroundColor="AliceBlue" CornerRadius="15" Clicked="ImageButton_Clicked"/>
+            <Label Text="Where the crawdads sing" Grid.Row="1" Grid.Column="0" FontAttributes="Bold" HorizontalTextAlignment="Center" FontFamily="Georgia"/>
 
-        </VerticalStackLayout>
-    </ScrollView>
+            <ImageButton Grid.Row="0" Grid.Column="1" Margin="5" Source="rock.svg"
+             BackgroundColor="AliceBlue" CornerRadius="15" Clicked="ImageButton_Clicked"/>
+            <Label Text="The Alchemist" Grid.Row="1" Grid.Column="1" FontAttributes="Bold" HorizontalTextAlignment="Center" FontFamily="Georgia"/>
+
+            <ImageButton Grid.Row="0" Grid.Column="2" Margin="5" Source="rock.svg"
+             BackgroundColor="AliceBlue" CornerRadius="15" Clicked="ImageButton_Clicked"/>
+            <Label Text=" It ends with us" Grid.Row="1" Grid.Column="2" FontAttributes="Bold" HorizontalTextAlignment="Center" FontFamily="Georgia"/>
+
+            <ImageButton Grid.Row="2" Grid.Column="0" Margin="5" Source="rock.svg" 
+             BackgroundColor="AliceBlue" CornerRadius="15" Clicked="ImageButton_Clicked"/>
+            <Label Text="The seven husbands" Grid.Row="3" Grid.Column="0" FontAttributes="Bold" HorizontalTextAlignment="Center" FontFamily="Georgia"/>
+
+            <ImageButton Grid.Row="2" Grid.Column="1" Margin="5" Source="rock.svg" 
+             BackgroundColor="AliceBlue" CornerRadius="15" Clicked="ImageButton_Clicked"/>
+            <Label Text="Ugly love" Grid.Row="3" Grid.Column="1" FontAttributes="Bold" 
+             HorizontalTextAlignment="Center" FontFamily="Georgia"  />
+
+            <ImageButton Grid.Row="2" Grid.Column="2" Margin="5" Source="rock.svg" BackgroundColor="AliceBlue" CornerRadius="15" Clicked="ImageButton_Clicked"/>
+            <Label Text=" Da vinci code" Grid.Row="3" Grid.Column="2" FontAttributes="Bold" HorizontalTextAlignment="Center" FontFamily="Georgia"/>
+            </Grid>
+
+        
+    </StackLayout>
  
 </ContentPage>

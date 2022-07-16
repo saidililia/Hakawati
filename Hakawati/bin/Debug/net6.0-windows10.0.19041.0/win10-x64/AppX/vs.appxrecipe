@@ -19,7 +19,7 @@
     <WindowsSdkPath>
     </WindowsSdkPath>
     <LayoutDir>C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
-    <RegisteredManifestChecksum>473DBA1FCE81F69B58F63426CC2B0390E85891B80C0FEE46D65C406F4EA55FF4</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>DA5B9BFD5FCF828D5F460DA573871DFBB9F160DCD59DBBAFF713540E36990DF8</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>C6AAE48A-63EE-4D6E-BEE8-AA6D46F38AFE_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>C6AAE48A-63EE-4D6E-BEE8-AA6D46F38AFE_9zz4h110yvjzm!App</RegisteredUserModeAppID>
     <RegisteredPackageID>C6AAE48A-63EE-4D6E-BEE8-AA6D46F38AFE</RegisteredPackageID>
@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-07-08T09:50:21.214</Modified>
+      <Modified>2022-07-11T21:14:20.569</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-07-08T09:50:20.134</Modified>
+      <Modified>2022-07-11T21:14:19.713</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Hakawati.runtimeconfig.json">
       <PackagePath>Hakawati.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Hakawati.dll">
       <PackagePath>Hakawati.dll</PackagePath>
-      <Modified>2022-07-08T09:50:15.937</Modified>
+      <Modified>2022-07-11T21:14:16.684</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Hakawati.exe</PackagePath>
-      <Modified>2022-07-08T09:50:15.984</Modified>
+      <Modified>2022-07-11T21:14:16.726</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1064,7 +1064,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Hakawati.deps.json">
       <PackagePath>Hakawati.deps.json</PackagePath>
-      <Modified>2022-07-08T09:50:20.666</Modified>
+      <Modified>2022-07-11T21:14:20.270</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.400\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1089,6 +1089,26 @@
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2022-07-08T00:24:36.369</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\rockSplashScreen.scale-100.png">
+      <PackagePath>rockSplashScreen.scale-100.png</PackagePath>
+      <Modified>2022-07-08T20:59:46.172</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\rockSplashScreen.scale-125.png">
+      <PackagePath>rockSplashScreen.scale-125.png</PackagePath>
+      <Modified>2022-07-08T20:59:46.196</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\rockSplashScreen.scale-150.png">
+      <PackagePath>rockSplashScreen.scale-150.png</PackagePath>
+      <Modified>2022-07-08T20:59:46.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\rockSplashScreen.scale-200.png">
+      <PackagePath>rockSplashScreen.scale-200.png</PackagePath>
+      <Modified>2022-07-08T20:59:46.265</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\rockSplashScreen.scale-400.png">
+      <PackagePath>rockSplashScreen.scale-400.png</PackagePath>
+      <Modified>2022-07-08T20:59:46.436</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
@@ -1120,147 +1140,171 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2022-07-08T09:50:14.682</Modified>
+      <Modified>2022-07-08T20:59:46.538</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2022-07-08T09:50:15.236</Modified>
+      <Modified>2022-07-08T20:59:46.983</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2022-07-08T09:50:15.294</Modified>
+      <Modified>2022-07-08T20:59:47.006</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2022-07-08T09:50:15.320</Modified>
+      <Modified>2022-07-08T20:59:47.035</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2022-07-08T09:50:15.351</Modified>
+      <Modified>2022-07-08T20:59:47.079</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2022-07-08T09:50:15.452</Modified>
+      <Modified>2022-07-08T20:59:47.205</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.698</Modified>
+      <Modified>2022-07-08T20:59:46.568</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.698</Modified>
+      <Modified>2022-07-08T20:59:46.574</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.714</Modified>
+      <Modified>2022-07-08T20:59:46.581</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.729</Modified>
+      <Modified>2022-07-08T20:59:46.588</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.751</Modified>
+      <Modified>2022-07-08T20:59:46.604</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.852</Modified>
+      <Modified>2022-07-08T20:59:46.740</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.867</Modified>
+      <Modified>2022-07-08T20:59:46.754</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.867</Modified>
+      <Modified>2022-07-08T20:59:46.770</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.899</Modified>
+      <Modified>2022-07-08T20:59:46.791</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.930</Modified>
+      <Modified>2022-07-08T20:59:46.837</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.798</Modified>
+      <Modified>2022-07-08T20:59:46.671</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.814</Modified>
+      <Modified>2022-07-08T20:59:46.681</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.814</Modified>
+      <Modified>2022-07-08T20:59:46.689</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.829</Modified>
+      <Modified>2022-07-08T20:59:46.704</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.845</Modified>
+      <Modified>2022-07-08T20:59:46.725</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.751</Modified>
+      <Modified>2022-07-08T20:59:46.614</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.767</Modified>
+      <Modified>2022-07-08T20:59:46.625</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.783</Modified>
+      <Modified>2022-07-08T20:59:46.639</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.783</Modified>
+      <Modified>2022-07-08T20:59:46.646</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.798</Modified>
+      <Modified>2022-07-08T20:59:46.661</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.952</Modified>
+      <Modified>2022-07-08T20:59:46.849</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.983</Modified>
+      <Modified>2022-07-08T20:59:46.861</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2022-07-08T09:50:15.030</Modified>
+      <Modified>2022-07-08T20:59:46.882</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2022-07-08T09:50:15.072</Modified>
+      <Modified>2022-07-08T20:59:46.908</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2022-07-08T09:50:15.204</Modified>
+      <Modified>2022-07-08T20:59:46.965</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.767</Modified>
+      <Modified>2022-07-08T20:59:46.601</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.798</Modified>
+      <Modified>2022-07-08T20:59:46.623</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.814</Modified>
+      <Modified>2022-07-08T20:59:46.656</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.852</Modified>
+      <Modified>2022-07-08T20:59:46.702</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.952</Modified>
+      <Modified>2022-07-08T20:59:46.816</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\image.scale-100.jpg">
+      <PackagePath>image.scale-100.jpg</PackagePath>
+      <Modified>2022-07-08T18:01:59.729</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\rock.scale-100.png">
+      <PackagePath>rock.scale-100.png</PackagePath>
+      <Modified>2022-07-08T20:59:46.532</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\rock.scale-125.png">
+      <PackagePath>rock.scale-125.png</PackagePath>
+      <Modified>2022-07-08T20:59:46.583</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\rock.scale-150.png">
+      <PackagePath>rock.scale-150.png</PackagePath>
+      <Modified>2022-07-08T20:59:46.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\rock.scale-200.png">
+      <PackagePath>rock.scale-200.png</PackagePath>
+      <Modified>2022-07-08T20:59:46.806</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\rock.scale-400.png">
+      <PackagePath>rock.scale-400.png</PackagePath>
+      <Modified>2022-07-08T20:59:47.211</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -343,3 +343,14 @@ C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0
 C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\rockSplashScreen.scale-100.png
+C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\rockSplashScreen.scale-125.png
+C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\rockSplashScreen.scale-150.png
+C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\rockSplashScreen.scale-200.png
+C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\rockSplashScreen.scale-400.png
+C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\image.scale-100.jpg
+C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\rock.scale-100.png
+C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\rock.scale-125.png
+C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\rock.scale-150.png
+C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\rock.scale-200.png
+C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\rock.scale-400.png
