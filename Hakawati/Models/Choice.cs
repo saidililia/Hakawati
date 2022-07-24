@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Hakawati.Models
 {
-    internal class Choice
+    public class Choice
     {
+
     }
 }

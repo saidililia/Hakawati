@@ -54,4 +54,8 @@
 	  <None Remove="Resources\Splash\2022-04_LSVG_RTR-46.svg" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <PackageReference Include="FirebaseDatabase.net" Version="4.0.7" />
+	</ItemGroup>
+
 </Project>

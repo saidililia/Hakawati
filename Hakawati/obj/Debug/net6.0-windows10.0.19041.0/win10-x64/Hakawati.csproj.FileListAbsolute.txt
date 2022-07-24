@@ -354,3 +354,8 @@ C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0
 C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\rock.scale-150.png
 C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\rock.scale-200.png
 C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\rock.scale-400.png
+C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Firebase.dll
+C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\LiteDB.dll
+C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reactive.dll
+C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.WindowsRuntime.dll

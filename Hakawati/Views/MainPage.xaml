@@ -4,7 +4,8 @@
              x:Class="Hakawati.MainPage">
 
     <StackLayout BackgroundColor="BlueViolet" >
-        <Image Source="image.jpg" BackgroundColor="AntiqueWhite"/>
+        <Button Text="retreive all stories" Clicked="GetAll"/>
+        <Button Text="add story" Clicked="Add"/>
         <Grid Padding="3">
           
             <Grid.RowDefinitions>

@@ -30,25 +30,25 @@
     <AppXManifest Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-07-11T21:14:20.569</Modified>
+      <Modified>2022-07-24T14:01:24.868</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-07-11T21:14:19.713</Modified>
+      <Modified>2022-07-24T14:01:23.896</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Hakawati.runtimeconfig.json">
       <PackagePath>Hakawati.runtimeconfig.json</PackagePath>
-      <Modified>2022-07-08T09:50:19.610</Modified>
+      <Modified>2022-07-24T14:01:23.301</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Hakawati.dll">
       <PackagePath>Hakawati.dll</PackagePath>
-      <Modified>2022-07-11T21:14:16.684</Modified>
+      <Modified>2022-07-24T14:01:19.898</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Hakawati.exe</PackagePath>
-      <Modified>2022-07-11T21:14:16.726</Modified>
+      <Modified>2022-07-24T14:01:19.946</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -966,6 +966,14 @@
       <PackagePath>WinRT.Runtime.dll</PackagePath>
       <Modified>2022-04-13T00:46:32.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\firebasedatabase.net\4.0.7\lib\netstandard2.0\Firebase.dll">
+      <PackagePath>Firebase.dll</PackagePath>
+      <Modified>2021-11-16T16:11:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\litedb\4.1.4\lib\netstandard2.0\LiteDB.dll">
+      <PackagePath>LiteDB.dll</PackagePath>
+      <Modified>2018-06-11T19:04:22.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.extensions.configuration\6.0.1\lib\netstandard2.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
       <Modified>2022-02-24T00:12:18.000</Modified>
@@ -1054,6 +1062,18 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
       <Modified>2022-06-01T17:09:02.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\newtonsoft.json\11.0.2\lib\netstandard2.0\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2018-03-24T17:44:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\system.reactive\4.0.0\lib\netstandard2.0\System.Reactive.dll">
+      <PackagePath>System.Reactive.dll</PackagePath>
+      <Modified>2018-05-25T16:44:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\system.runtime.interopservices.windowsruntime\4.3.0\lib\netstandard1.3\System.Runtime.InteropServices.WindowsRuntime.dll">
+      <PackagePath>System.Runtime.InteropServices.WindowsRuntime.dll</PackagePath>
+      <Modified>2016-11-05T04:56:52.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.graphics.win2d\1.0.3.1\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
       <Modified>2022-04-28T15:57:10.000</Modified>
@@ -1064,7 +1084,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Hakawati.deps.json">
       <PackagePath>Hakawati.deps.json</PackagePath>
-      <Modified>2022-07-11T21:14:20.270</Modified>
+      <Modified>2022-07-24T14:01:24.432</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.400\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
