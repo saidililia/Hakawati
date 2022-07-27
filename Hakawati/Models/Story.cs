@@ -11,10 +11,7 @@ namespace Hakawati.Models
         public string Name { get; set; }
         public String MainImage { get; set; }
 
-        public Story(string name, String main) {
-            Name = name;
-            MainImage = main;
-        }
+         
 
 
     }

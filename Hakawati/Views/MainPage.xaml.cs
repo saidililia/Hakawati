@@ -26,6 +26,11 @@ public partial class MainPage : ContentPage
 
 	private void Add(object sender, EventArgs e)
 	{
+		firebase.Child("Stories").PostAsync(new Story
+		{
+			Name = "hello",
+			MainImage = "hello"
+		});
 
 	}
 }
