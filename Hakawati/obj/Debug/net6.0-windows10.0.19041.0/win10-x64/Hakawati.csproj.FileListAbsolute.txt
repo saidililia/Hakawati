@@ -252,7 +252,6 @@ C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0
 C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\hostfxr.dll
 C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
 C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
-C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_6.0.522.21309.dll
 C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordbi.dll
 C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscorrc.dll
 C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\msquic.dll
@@ -271,11 +270,6 @@ C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0
 C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
 C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
 C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Hakawati.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
-C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
-C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
-C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
-C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
 C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
 C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauifont.stamp
 C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
@@ -359,3 +353,4 @@ C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0
 C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
 C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reactive.dll
 C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_6.0.622.26707.dll

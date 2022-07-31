@@ -19,7 +19,7 @@
     <WindowsSdkPath>
     </WindowsSdkPath>
     <LayoutDir>C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
-    <RegisteredManifestChecksum>DA5B9BFD5FCF828D5F460DA573871DFBB9F160DCD59DBBAFF713540E36990DF8</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>135856F32EA3AEDFA13F4DAE3CBAF531A797CE9205454E58402B378B3086FA77</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>C6AAE48A-63EE-4D6E-BEE8-AA6D46F38AFE_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>C6AAE48A-63EE-4D6E-BEE8-AA6D46F38AFE_9zz4h110yvjzm!App</RegisteredUserModeAppID>
     <RegisteredPackageID>C6AAE48A-63EE-4D6E-BEE8-AA6D46F38AFE</RegisteredPackageID>
@@ -30,941 +30,941 @@
     <AppXManifest Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-07-27T20:22:46.052</Modified>
+      <Modified>2022-07-31T17:05:57.008</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-07-27T20:22:45.252</Modified>
+      <Modified>2022-07-31T17:05:55.956</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Hakawati.runtimeconfig.json">
       <PackagePath>Hakawati.runtimeconfig.json</PackagePath>
-      <Modified>2022-07-24T14:01:23.301</Modified>
+      <Modified>2022-07-31T17:01:53.067</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Hakawati.dll">
       <PackagePath>Hakawati.dll</PackagePath>
-      <Modified>2022-07-27T20:22:41.519</Modified>
+      <Modified>2022-07-31T17:05:54.413</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Hakawati.exe</PackagePath>
-      <Modified>2022-07-27T20:22:41.633</Modified>
+      <Modified>2022-07-31T17:05:54.446</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
-      <Modified>2022-04-13T18:24:48.000</Modified>
+      <Modified>2022-05-17T18:05:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\Microsoft.VisualBasic.Core.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\Microsoft.VisualBasic.Core.dll">
       <PackagePath>Microsoft.VisualBasic.Core.dll</PackagePath>
-      <Modified>2022-04-13T18:24:54.000</Modified>
+      <Modified>2022-05-17T18:05:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\Microsoft.VisualBasic.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\Microsoft.VisualBasic.dll">
       <PackagePath>Microsoft.VisualBasic.dll</PackagePath>
-      <Modified>2022-04-13T17:37:18.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\Microsoft.Win32.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\Microsoft.Win32.Primitives.dll">
       <PackagePath>Microsoft.Win32.Primitives.dll</PackagePath>
-      <Modified>2022-04-13T18:24:58.000</Modified>
+      <Modified>2022-05-17T18:05:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\Microsoft.Win32.Registry.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\Microsoft.Win32.Registry.dll">
       <PackagePath>Microsoft.Win32.Registry.dll</PackagePath>
-      <Modified>2022-04-13T18:25:02.000</Modified>
+      <Modified>2022-05-17T18:05:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.AppContext.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.AppContext.dll">
       <PackagePath>System.AppContext.dll</PackagePath>
-      <Modified>2022-04-13T17:37:18.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Buffers.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Buffers.dll">
       <PackagePath>System.Buffers.dll</PackagePath>
-      <Modified>2022-04-13T17:37:18.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Collections.Concurrent.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Collections.Concurrent.dll">
       <PackagePath>System.Collections.Concurrent.dll</PackagePath>
-      <Modified>2022-04-13T18:25:06.000</Modified>
+      <Modified>2022-05-17T18:05:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Collections.Immutable.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Collections.Immutable.dll">
       <PackagePath>System.Collections.Immutable.dll</PackagePath>
-      <Modified>2022-04-13T18:25:16.000</Modified>
+      <Modified>2022-05-17T18:05:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Collections.NonGeneric.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Collections.NonGeneric.dll">
       <PackagePath>System.Collections.NonGeneric.dll</PackagePath>
-      <Modified>2022-04-13T18:25:20.000</Modified>
+      <Modified>2022-05-17T18:06:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Collections.Specialized.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Collections.Specialized.dll">
       <PackagePath>System.Collections.Specialized.dll</PackagePath>
-      <Modified>2022-04-13T18:25:24.000</Modified>
+      <Modified>2022-05-17T18:06:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Collections.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Collections.dll">
       <PackagePath>System.Collections.dll</PackagePath>
-      <Modified>2022-04-13T18:25:10.000</Modified>
+      <Modified>2022-05-17T18:05:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.ComponentModel.Annotations.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.ComponentModel.Annotations.dll">
       <PackagePath>System.ComponentModel.Annotations.dll</PackagePath>
-      <Modified>2022-04-13T18:25:28.000</Modified>
+      <Modified>2022-05-17T18:06:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.ComponentModel.DataAnnotations.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.ComponentModel.DataAnnotations.dll">
       <PackagePath>System.ComponentModel.DataAnnotations.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.ComponentModel.EventBasedAsync.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.ComponentModel.EventBasedAsync.dll">
       <PackagePath>System.ComponentModel.EventBasedAsync.dll</PackagePath>
-      <Modified>2022-04-13T18:25:38.000</Modified>
+      <Modified>2022-05-17T18:06:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.ComponentModel.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.ComponentModel.Primitives.dll">
       <PackagePath>System.ComponentModel.Primitives.dll</PackagePath>
-      <Modified>2022-04-13T18:25:42.000</Modified>
+      <Modified>2022-05-17T18:06:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.ComponentModel.TypeConverter.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.ComponentModel.TypeConverter.dll">
       <PackagePath>System.ComponentModel.TypeConverter.dll</PackagePath>
-      <Modified>2022-04-13T18:25:46.000</Modified>
+      <Modified>2022-05-17T18:06:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.ComponentModel.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.ComponentModel.dll">
       <PackagePath>System.ComponentModel.dll</PackagePath>
-      <Modified>2022-04-13T18:25:32.000</Modified>
+      <Modified>2022-05-17T18:06:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Configuration.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Configuration.dll">
       <PackagePath>System.Configuration.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Console.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Console.dll">
       <PackagePath>System.Console.dll</PackagePath>
-      <Modified>2022-04-13T18:25:50.000</Modified>
+      <Modified>2022-05-17T18:06:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Core.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Core.dll">
       <PackagePath>System.Core.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Data.Common.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Data.Common.dll">
       <PackagePath>System.Data.Common.dll</PackagePath>
-      <Modified>2022-04-13T18:25:56.000</Modified>
+      <Modified>2022-05-17T18:06:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Data.DataSetExtensions.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Data.DataSetExtensions.dll">
       <PackagePath>System.Data.DataSetExtensions.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Data.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Data.dll">
       <PackagePath>System.Data.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Diagnostics.Contracts.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Diagnostics.Contracts.dll">
       <PackagePath>System.Diagnostics.Contracts.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Diagnostics.Debug.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Diagnostics.Debug.dll">
       <PackagePath>System.Diagnostics.Debug.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Diagnostics.DiagnosticSource.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Diagnostics.DiagnosticSource.dll">
       <PackagePath>System.Diagnostics.DiagnosticSource.dll</PackagePath>
-      <Modified>2022-04-13T18:26:02.000</Modified>
+      <Modified>2022-05-17T18:06:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Diagnostics.FileVersionInfo.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Diagnostics.FileVersionInfo.dll">
       <PackagePath>System.Diagnostics.FileVersionInfo.dll</PackagePath>
-      <Modified>2022-04-13T18:26:06.000</Modified>
+      <Modified>2022-05-17T18:06:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Diagnostics.Process.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Diagnostics.Process.dll">
       <PackagePath>System.Diagnostics.Process.dll</PackagePath>
-      <Modified>2022-04-13T18:26:10.000</Modified>
+      <Modified>2022-05-17T18:06:48.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Diagnostics.StackTrace.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Diagnostics.StackTrace.dll">
       <PackagePath>System.Diagnostics.StackTrace.dll</PackagePath>
-      <Modified>2022-04-13T18:26:14.000</Modified>
+      <Modified>2022-05-17T18:06:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Diagnostics.TextWriterTraceListener.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Diagnostics.TextWriterTraceListener.dll">
       <PackagePath>System.Diagnostics.TextWriterTraceListener.dll</PackagePath>
-      <Modified>2022-04-13T18:26:18.000</Modified>
+      <Modified>2022-05-17T18:06:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Diagnostics.Tools.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Diagnostics.Tools.dll">
       <PackagePath>System.Diagnostics.Tools.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Diagnostics.TraceSource.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Diagnostics.TraceSource.dll">
       <PackagePath>System.Diagnostics.TraceSource.dll</PackagePath>
-      <Modified>2022-04-13T18:26:22.000</Modified>
+      <Modified>2022-05-17T18:06:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Diagnostics.Tracing.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Diagnostics.Tracing.dll">
       <PackagePath>System.Diagnostics.Tracing.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Drawing.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Drawing.Primitives.dll">
       <PackagePath>System.Drawing.Primitives.dll</PackagePath>
-      <Modified>2022-04-13T18:26:26.000</Modified>
+      <Modified>2022-05-17T18:07:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Drawing.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Drawing.dll">
       <PackagePath>System.Drawing.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Dynamic.Runtime.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Dynamic.Runtime.dll">
       <PackagePath>System.Dynamic.Runtime.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Formats.Asn1.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Formats.Asn1.dll">
       <PackagePath>System.Formats.Asn1.dll</PackagePath>
-      <Modified>2022-04-13T18:26:30.000</Modified>
+      <Modified>2022-05-17T18:07:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Globalization.Calendars.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Globalization.Calendars.dll">
       <PackagePath>System.Globalization.Calendars.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Globalization.Extensions.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Globalization.Extensions.dll">
       <PackagePath>System.Globalization.Extensions.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Globalization.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Globalization.dll">
       <PackagePath>System.Globalization.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.IO.Compression.Brotli.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.IO.Compression.Brotli.dll">
       <PackagePath>System.IO.Compression.Brotli.dll</PackagePath>
-      <Modified>2022-04-13T18:26:34.000</Modified>
+      <Modified>2022-05-17T18:07:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.IO.Compression.FileSystem.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.IO.Compression.FileSystem.dll">
       <PackagePath>System.IO.Compression.FileSystem.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.IO.Compression.ZipFile.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.IO.Compression.ZipFile.dll">
       <PackagePath>System.IO.Compression.ZipFile.dll</PackagePath>
-      <Modified>2022-04-13T18:26:44.000</Modified>
+      <Modified>2022-05-17T18:07:18.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.IO.Compression.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.IO.Compression.dll">
       <PackagePath>System.IO.Compression.dll</PackagePath>
-      <Modified>2022-04-13T18:26:40.000</Modified>
+      <Modified>2022-05-17T18:07:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.IO.FileSystem.AccessControl.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.IO.FileSystem.AccessControl.dll">
       <PackagePath>System.IO.FileSystem.AccessControl.dll</PackagePath>
-      <Modified>2022-04-13T18:26:48.000</Modified>
+      <Modified>2022-05-17T18:07:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.IO.FileSystem.DriveInfo.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.IO.FileSystem.DriveInfo.dll">
       <PackagePath>System.IO.FileSystem.DriveInfo.dll</PackagePath>
-      <Modified>2022-04-13T18:26:52.000</Modified>
+      <Modified>2022-05-17T18:07:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.IO.FileSystem.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.IO.FileSystem.Primitives.dll">
       <PackagePath>System.IO.FileSystem.Primitives.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.IO.FileSystem.Watcher.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.IO.FileSystem.Watcher.dll">
       <PackagePath>System.IO.FileSystem.Watcher.dll</PackagePath>
-      <Modified>2022-04-13T18:26:56.000</Modified>
+      <Modified>2022-05-17T18:07:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.IO.FileSystem.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.IO.FileSystem.dll">
       <PackagePath>System.IO.FileSystem.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.IO.IsolatedStorage.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.IO.IsolatedStorage.dll">
       <PackagePath>System.IO.IsolatedStorage.dll</PackagePath>
-      <Modified>2022-04-13T18:27:00.000</Modified>
+      <Modified>2022-05-17T18:07:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.IO.MemoryMappedFiles.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.IO.MemoryMappedFiles.dll">
       <PackagePath>System.IO.MemoryMappedFiles.dll</PackagePath>
-      <Modified>2022-04-13T18:27:04.000</Modified>
+      <Modified>2022-05-17T18:07:36.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.IO.Pipes.AccessControl.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.IO.Pipes.AccessControl.dll">
       <PackagePath>System.IO.Pipes.AccessControl.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.IO.Pipes.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.IO.Pipes.dll">
       <PackagePath>System.IO.Pipes.dll</PackagePath>
-      <Modified>2022-04-13T18:27:08.000</Modified>
+      <Modified>2022-05-17T18:07:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.IO.UnmanagedMemoryStream.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.IO.UnmanagedMemoryStream.dll">
       <PackagePath>System.IO.UnmanagedMemoryStream.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.IO.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.IO.dll">
       <PackagePath>System.IO.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Linq.Expressions.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Linq.Expressions.dll">
       <PackagePath>System.Linq.Expressions.dll</PackagePath>
-      <Modified>2022-04-13T18:27:22.000</Modified>
+      <Modified>2022-05-17T18:07:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Linq.Parallel.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Linq.Parallel.dll">
       <PackagePath>System.Linq.Parallel.dll</PackagePath>
-      <Modified>2022-04-13T18:27:26.000</Modified>
+      <Modified>2022-05-17T18:07:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Linq.Queryable.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Linq.Queryable.dll">
       <PackagePath>System.Linq.Queryable.dll</PackagePath>
-      <Modified>2022-04-13T18:27:30.000</Modified>
+      <Modified>2022-05-17T18:08:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Linq.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Linq.dll">
       <PackagePath>System.Linq.dll</PackagePath>
-      <Modified>2022-04-13T18:27:14.000</Modified>
+      <Modified>2022-05-17T18:07:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Memory.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Memory.dll">
       <PackagePath>System.Memory.dll</PackagePath>
-      <Modified>2022-04-13T18:27:36.000</Modified>
+      <Modified>2022-05-17T18:08:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Net.Http.Json.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Net.Http.Json.dll">
       <PackagePath>System.Net.Http.Json.dll</PackagePath>
-      <Modified>2022-04-13T18:27:44.000</Modified>
+      <Modified>2022-05-17T18:08:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Net.Http.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Net.Http.dll">
       <PackagePath>System.Net.Http.dll</PackagePath>
-      <Modified>2022-04-13T18:27:40.000</Modified>
+      <Modified>2022-05-17T18:08:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Net.HttpListener.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Net.HttpListener.dll">
       <PackagePath>System.Net.HttpListener.dll</PackagePath>
-      <Modified>2022-04-13T18:27:50.000</Modified>
+      <Modified>2022-05-17T18:08:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Net.Mail.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Net.Mail.dll">
       <PackagePath>System.Net.Mail.dll</PackagePath>
-      <Modified>2022-04-13T18:27:54.000</Modified>
+      <Modified>2022-05-17T18:08:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Net.NameResolution.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Net.NameResolution.dll">
       <PackagePath>System.Net.NameResolution.dll</PackagePath>
-      <Modified>2022-04-13T18:27:58.000</Modified>
+      <Modified>2022-05-17T18:08:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Net.NetworkInformation.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Net.NetworkInformation.dll">
       <PackagePath>System.Net.NetworkInformation.dll</PackagePath>
-      <Modified>2022-04-13T18:28:02.000</Modified>
+      <Modified>2022-05-17T18:08:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Net.Ping.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Net.Ping.dll">
       <PackagePath>System.Net.Ping.dll</PackagePath>
-      <Modified>2022-04-13T18:28:06.000</Modified>
+      <Modified>2022-05-17T18:08:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Net.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Net.Primitives.dll">
       <PackagePath>System.Net.Primitives.dll</PackagePath>
-      <Modified>2022-04-13T18:28:12.000</Modified>
+      <Modified>2022-05-17T18:08:36.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Net.Quic.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Net.Quic.dll">
       <PackagePath>System.Net.Quic.dll</PackagePath>
-      <Modified>2022-04-13T18:28:16.000</Modified>
+      <Modified>2022-05-17T18:08:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Net.Requests.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Net.Requests.dll">
       <PackagePath>System.Net.Requests.dll</PackagePath>
-      <Modified>2022-04-13T18:28:20.000</Modified>
+      <Modified>2022-05-17T18:08:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Net.Security.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Net.Security.dll">
       <PackagePath>System.Net.Security.dll</PackagePath>
-      <Modified>2022-04-13T18:28:26.000</Modified>
+      <Modified>2022-05-17T18:08:48.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Net.ServicePoint.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Net.ServicePoint.dll">
       <PackagePath>System.Net.ServicePoint.dll</PackagePath>
-      <Modified>2022-04-13T18:28:28.000</Modified>
+      <Modified>2022-05-17T18:08:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Net.Sockets.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Net.Sockets.dll">
       <PackagePath>System.Net.Sockets.dll</PackagePath>
-      <Modified>2022-04-13T18:28:34.000</Modified>
+      <Modified>2022-05-17T18:08:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Net.WebClient.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Net.WebClient.dll">
       <PackagePath>System.Net.WebClient.dll</PackagePath>
-      <Modified>2022-04-13T18:28:38.000</Modified>
+      <Modified>2022-05-17T18:09:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Net.WebHeaderCollection.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Net.WebHeaderCollection.dll">
       <PackagePath>System.Net.WebHeaderCollection.dll</PackagePath>
-      <Modified>2022-04-13T18:28:42.000</Modified>
+      <Modified>2022-05-17T18:09:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Net.WebProxy.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Net.WebProxy.dll">
       <PackagePath>System.Net.WebProxy.dll</PackagePath>
-      <Modified>2022-04-13T18:28:46.000</Modified>
+      <Modified>2022-05-17T18:09:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Net.WebSockets.Client.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Net.WebSockets.Client.dll">
       <PackagePath>System.Net.WebSockets.Client.dll</PackagePath>
-      <Modified>2022-04-13T18:28:50.000</Modified>
+      <Modified>2022-05-17T18:09:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Net.WebSockets.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Net.WebSockets.dll">
       <PackagePath>System.Net.WebSockets.dll</PackagePath>
-      <Modified>2022-04-13T18:28:54.000</Modified>
+      <Modified>2022-05-17T18:09:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Net.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Net.dll">
       <PackagePath>System.Net.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Numerics.Vectors.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Numerics.Vectors.dll">
       <PackagePath>System.Numerics.Vectors.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Numerics.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Numerics.dll">
       <PackagePath>System.Numerics.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.ObjectModel.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.ObjectModel.dll">
       <PackagePath>System.ObjectModel.dll</PackagePath>
-      <Modified>2022-04-13T18:28:58.000</Modified>
+      <Modified>2022-05-17T18:09:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Private.CoreLib.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Private.CoreLib.dll">
       <PackagePath>System.Private.CoreLib.dll</PackagePath>
-      <Modified>2022-04-13T17:36:18.000</Modified>
+      <Modified>2022-05-17T17:27:18.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Private.DataContractSerialization.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Private.DataContractSerialization.dll">
       <PackagePath>System.Private.DataContractSerialization.dll</PackagePath>
-      <Modified>2022-04-13T18:29:04.000</Modified>
+      <Modified>2022-05-17T18:09:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Private.Uri.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Private.Uri.dll">
       <PackagePath>System.Private.Uri.dll</PackagePath>
-      <Modified>2022-04-13T18:29:08.000</Modified>
+      <Modified>2022-05-17T18:09:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Private.Xml.Linq.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Private.Xml.Linq.dll">
       <PackagePath>System.Private.Xml.Linq.dll</PackagePath>
-      <Modified>2022-04-13T18:29:24.000</Modified>
+      <Modified>2022-05-17T18:09:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Private.Xml.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Private.Xml.dll">
       <PackagePath>System.Private.Xml.dll</PackagePath>
-      <Modified>2022-04-13T18:29:18.000</Modified>
+      <Modified>2022-05-17T18:09:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Reflection.DispatchProxy.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Reflection.DispatchProxy.dll">
       <PackagePath>System.Reflection.DispatchProxy.dll</PackagePath>
-      <Modified>2022-04-13T18:29:28.000</Modified>
+      <Modified>2022-05-17T18:09:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Reflection.Emit.ILGeneration.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Reflection.Emit.ILGeneration.dll">
       <PackagePath>System.Reflection.Emit.ILGeneration.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Reflection.Emit.Lightweight.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Reflection.Emit.Lightweight.dll">
       <PackagePath>System.Reflection.Emit.Lightweight.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Reflection.Emit.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Reflection.Emit.dll">
       <PackagePath>System.Reflection.Emit.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Reflection.Extensions.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Reflection.Extensions.dll">
       <PackagePath>System.Reflection.Extensions.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Reflection.Metadata.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Reflection.Metadata.dll">
       <PackagePath>System.Reflection.Metadata.dll</PackagePath>
-      <Modified>2022-04-13T18:29:32.000</Modified>
+      <Modified>2022-05-17T18:09:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Reflection.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Reflection.Primitives.dll">
       <PackagePath>System.Reflection.Primitives.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Reflection.TypeExtensions.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Reflection.TypeExtensions.dll">
       <PackagePath>System.Reflection.TypeExtensions.dll</PackagePath>
-      <Modified>2022-04-13T18:29:36.000</Modified>
+      <Modified>2022-05-17T18:09:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Reflection.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Reflection.dll">
       <PackagePath>System.Reflection.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Resources.Reader.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Resources.Reader.dll">
       <PackagePath>System.Resources.Reader.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Resources.ResourceManager.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Resources.ResourceManager.dll">
       <PackagePath>System.Resources.ResourceManager.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Resources.Writer.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Resources.Writer.dll">
       <PackagePath>System.Resources.Writer.dll</PackagePath>
-      <Modified>2022-04-13T18:29:40.000</Modified>
+      <Modified>2022-05-17T18:09:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Runtime.CompilerServices.Unsafe.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Runtime.CompilerServices.Unsafe.dll">
       <PackagePath>System.Runtime.CompilerServices.Unsafe.dll</PackagePath>
-      <Modified>2022-04-13T18:29:44.000</Modified>
+      <Modified>2022-05-17T18:10:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Runtime.CompilerServices.VisualC.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Runtime.CompilerServices.VisualC.dll">
       <PackagePath>System.Runtime.CompilerServices.VisualC.dll</PackagePath>
-      <Modified>2022-04-13T18:29:50.000</Modified>
+      <Modified>2022-05-17T18:10:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Runtime.Extensions.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Runtime.Extensions.dll">
       <PackagePath>System.Runtime.Extensions.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Runtime.Handles.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Runtime.Handles.dll">
       <PackagePath>System.Runtime.Handles.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Runtime.InteropServices.RuntimeInformation.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Runtime.InteropServices.RuntimeInformation.dll">
       <PackagePath>System.Runtime.InteropServices.RuntimeInformation.dll</PackagePath>
-      <Modified>2022-04-13T18:29:58.000</Modified>
+      <Modified>2022-05-17T18:10:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Runtime.InteropServices.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Runtime.InteropServices.dll">
       <PackagePath>System.Runtime.InteropServices.dll</PackagePath>
-      <Modified>2022-04-13T18:29:54.000</Modified>
+      <Modified>2022-05-17T18:10:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Runtime.Intrinsics.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Runtime.Intrinsics.dll">
       <PackagePath>System.Runtime.Intrinsics.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Runtime.Loader.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Runtime.Loader.dll">
       <PackagePath>System.Runtime.Loader.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Runtime.Numerics.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Runtime.Numerics.dll">
       <PackagePath>System.Runtime.Numerics.dll</PackagePath>
-      <Modified>2022-04-13T18:30:02.000</Modified>
+      <Modified>2022-05-17T18:10:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Runtime.Serialization.Formatters.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Runtime.Serialization.Formatters.dll">
       <PackagePath>System.Runtime.Serialization.Formatters.dll</PackagePath>
-      <Modified>2022-04-13T18:30:06.000</Modified>
+      <Modified>2022-05-17T18:10:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Runtime.Serialization.Json.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Runtime.Serialization.Json.dll">
       <PackagePath>System.Runtime.Serialization.Json.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Runtime.Serialization.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Runtime.Serialization.Primitives.dll">
       <PackagePath>System.Runtime.Serialization.Primitives.dll</PackagePath>
-      <Modified>2022-04-13T18:30:10.000</Modified>
+      <Modified>2022-05-17T18:10:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Runtime.Serialization.Xml.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Runtime.Serialization.Xml.dll">
       <PackagePath>System.Runtime.Serialization.Xml.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Runtime.Serialization.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Runtime.Serialization.dll">
       <PackagePath>System.Runtime.Serialization.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Runtime.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Security.AccessControl.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Security.AccessControl.dll">
       <PackagePath>System.Security.AccessControl.dll</PackagePath>
-      <Modified>2022-04-13T18:30:14.000</Modified>
+      <Modified>2022-05-17T18:10:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Security.Claims.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Security.Claims.dll">
       <PackagePath>System.Security.Claims.dll</PackagePath>
-      <Modified>2022-04-13T18:30:18.000</Modified>
+      <Modified>2022-05-17T18:10:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Security.Cryptography.Algorithms.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Security.Cryptography.Algorithms.dll">
       <PackagePath>System.Security.Cryptography.Algorithms.dll</PackagePath>
-      <Modified>2022-04-13T18:30:24.000</Modified>
+      <Modified>2022-05-17T18:10:36.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Security.Cryptography.Cng.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Security.Cryptography.Cng.dll">
       <PackagePath>System.Security.Cryptography.Cng.dll</PackagePath>
-      <Modified>2022-04-13T18:30:28.000</Modified>
+      <Modified>2022-05-17T18:10:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Security.Cryptography.Csp.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Security.Cryptography.Csp.dll">
       <PackagePath>System.Security.Cryptography.Csp.dll</PackagePath>
-      <Modified>2022-04-13T18:30:32.000</Modified>
+      <Modified>2022-05-17T18:10:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Security.Cryptography.Encoding.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Security.Cryptography.Encoding.dll">
       <PackagePath>System.Security.Cryptography.Encoding.dll</PackagePath>
-      <Modified>2022-04-13T18:30:36.000</Modified>
+      <Modified>2022-05-17T18:10:48.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Security.Cryptography.OpenSsl.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Security.Cryptography.OpenSsl.dll">
       <PackagePath>System.Security.Cryptography.OpenSsl.dll</PackagePath>
-      <Modified>2022-04-13T18:30:40.000</Modified>
+      <Modified>2022-05-17T18:10:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Security.Cryptography.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Security.Cryptography.Primitives.dll">
       <PackagePath>System.Security.Cryptography.Primitives.dll</PackagePath>
-      <Modified>2022-04-13T18:30:44.000</Modified>
+      <Modified>2022-05-17T18:10:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Security.Cryptography.X509Certificates.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Security.Cryptography.X509Certificates.dll">
       <PackagePath>System.Security.Cryptography.X509Certificates.dll</PackagePath>
-      <Modified>2022-04-13T18:30:50.000</Modified>
+      <Modified>2022-05-17T18:10:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Security.Principal.Windows.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Security.Principal.Windows.dll">
       <PackagePath>System.Security.Principal.Windows.dll</PackagePath>
-      <Modified>2022-04-13T18:30:54.000</Modified>
+      <Modified>2022-05-17T18:11:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Security.Principal.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Security.Principal.dll">
       <PackagePath>System.Security.Principal.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Security.SecureString.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Security.SecureString.dll">
       <PackagePath>System.Security.SecureString.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Security.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Security.dll">
       <PackagePath>System.Security.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.ServiceModel.Web.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.ServiceModel.Web.dll">
       <PackagePath>System.ServiceModel.Web.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.ServiceProcess.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.ServiceProcess.dll">
       <PackagePath>System.ServiceProcess.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Text.Encoding.CodePages.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Text.Encoding.CodePages.dll">
       <PackagePath>System.Text.Encoding.CodePages.dll</PackagePath>
-      <Modified>2022-04-13T18:30:58.000</Modified>
+      <Modified>2022-05-17T18:11:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Text.Encoding.Extensions.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Text.Encoding.Extensions.dll">
       <PackagePath>System.Text.Encoding.Extensions.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Text.Encoding.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Text.Encoding.dll">
       <PackagePath>System.Text.Encoding.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Text.Encodings.Web.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Text.Encodings.Web.dll">
       <PackagePath>System.Text.Encodings.Web.dll</PackagePath>
-      <Modified>2022-04-13T18:31:02.000</Modified>
+      <Modified>2022-05-17T18:11:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Text.Json.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Text.Json.dll">
       <PackagePath>System.Text.Json.dll</PackagePath>
-      <Modified>2022-04-13T18:31:08.000</Modified>
+      <Modified>2022-05-17T18:11:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Text.RegularExpressions.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Text.RegularExpressions.dll">
       <PackagePath>System.Text.RegularExpressions.dll</PackagePath>
-      <Modified>2022-04-13T18:31:14.000</Modified>
+      <Modified>2022-05-17T18:11:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Threading.Channels.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Threading.Channels.dll">
       <PackagePath>System.Threading.Channels.dll</PackagePath>
-      <Modified>2022-04-13T18:31:18.000</Modified>
+      <Modified>2022-05-17T18:11:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Threading.Overlapped.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Threading.Overlapped.dll">
       <PackagePath>System.Threading.Overlapped.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Threading.Tasks.Dataflow.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Threading.Tasks.Dataflow.dll">
       <PackagePath>System.Threading.Tasks.Dataflow.dll</PackagePath>
-      <Modified>2022-04-13T18:31:26.000</Modified>
+      <Modified>2022-05-17T18:11:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Threading.Tasks.Extensions.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Threading.Tasks.Extensions.dll">
       <PackagePath>System.Threading.Tasks.Extensions.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Threading.Tasks.Parallel.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Threading.Tasks.Parallel.dll">
       <PackagePath>System.Threading.Tasks.Parallel.dll</PackagePath>
-      <Modified>2022-04-13T18:31:32.000</Modified>
+      <Modified>2022-05-17T18:11:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Threading.Tasks.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Threading.Tasks.dll">
       <PackagePath>System.Threading.Tasks.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Threading.Thread.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Threading.Thread.dll">
       <PackagePath>System.Threading.Thread.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Threading.ThreadPool.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Threading.ThreadPool.dll">
       <PackagePath>System.Threading.ThreadPool.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Threading.Timer.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Threading.Timer.dll">
       <PackagePath>System.Threading.Timer.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Threading.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Threading.dll">
       <PackagePath>System.Threading.dll</PackagePath>
-      <Modified>2022-04-13T18:31:22.000</Modified>
+      <Modified>2022-05-17T18:11:26.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Transactions.Local.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Transactions.Local.dll">
       <PackagePath>System.Transactions.Local.dll</PackagePath>
-      <Modified>2022-04-13T18:31:36.000</Modified>
+      <Modified>2022-05-17T18:11:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Transactions.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Transactions.dll">
       <PackagePath>System.Transactions.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.ValueTuple.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.ValueTuple.dll">
       <PackagePath>System.ValueTuple.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Web.HttpUtility.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Web.HttpUtility.dll">
       <PackagePath>System.Web.HttpUtility.dll</PackagePath>
-      <Modified>2022-04-13T18:31:40.000</Modified>
+      <Modified>2022-05-17T18:11:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Web.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Web.dll">
       <PackagePath>System.Web.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Windows.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Windows.dll">
       <PackagePath>System.Windows.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Xml.Linq.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Xml.Linq.dll">
       <PackagePath>System.Xml.Linq.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Xml.ReaderWriter.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Xml.ReaderWriter.dll">
       <PackagePath>System.Xml.ReaderWriter.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Xml.Serialization.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Xml.Serialization.dll">
       <PackagePath>System.Xml.Serialization.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Xml.XDocument.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Xml.XDocument.dll">
       <PackagePath>System.Xml.XDocument.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Xml.XPath.XDocument.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Xml.XPath.XDocument.dll">
       <PackagePath>System.Xml.XPath.XDocument.dll</PackagePath>
-      <Modified>2022-04-13T18:31:44.000</Modified>
+      <Modified>2022-05-17T18:11:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Xml.XPath.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Xml.XPath.dll">
       <PackagePath>System.Xml.XPath.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Xml.XmlDocument.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Xml.XmlDocument.dll">
       <PackagePath>System.Xml.XmlDocument.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Xml.XmlSerializer.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.Xml.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.Xml.dll">
       <PackagePath>System.Xml.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\System.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\System.dll">
       <PackagePath>System.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\WindowsBase.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\WindowsBase.dll">
       <PackagePath>WindowsBase.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\mscorlib.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\mscorlib.dll">
       <PackagePath>mscorlib.dll</PackagePath>
-      <Modified>2022-04-13T17:37:18.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\lib\net6.0\netstandard.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\netstandard.dll">
       <PackagePath>netstandard.dll</PackagePath>
-      <Modified>2022-04-13T17:37:18.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Core.Runtime.win\6.0.400\lib\net6.0-windows10.0.19041\Microsoft.Maui.dll">
+    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Core.Runtime.win\6.0.419\lib\net6.0-windows10.0.19041\Microsoft.Maui.dll">
       <PackagePath>Microsoft.Maui.dll</PackagePath>
-      <Modified>2022-06-07T19:56:16.000</Modified>
+      <Modified>2022-07-12T22:22:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Runtime.win\6.0.400\lib\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.dll">
+    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Runtime.win\6.0.419\lib\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.dll">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.dll</PackagePath>
-      <Modified>2022-06-07T19:55:02.000</Modified>
+      <Modified>2022-07-12T22:23:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Runtime.win\6.0.400\lib\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Xaml.dll">
+    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Runtime.win\6.0.419\lib\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Xaml.dll">
       <PackagePath>Microsoft.Maui.Controls.Xaml.dll</PackagePath>
-      <Modified>2022-06-07T19:55:34.000</Modified>
+      <Modified>2022-07-12T22:23:48.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Runtime.win\6.0.400\lib\net6.0-windows10.0.19041\Microsoft.Maui.Controls.dll">
+    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Runtime.win\6.0.419\lib\net6.0-windows10.0.19041\Microsoft.Maui.Controls.dll">
       <PackagePath>Microsoft.Maui.Controls.dll</PackagePath>
-      <Modified>2022-06-07T19:55:34.000</Modified>
+      <Modified>2022-07-12T22:24:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Essentials.Runtime.win\6.0.400\lib\net6.0-windows10.0.19041\Microsoft.Maui.Essentials.dll">
+    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Essentials.Runtime.win\6.0.419\lib\net6.0-windows10.0.19041\Microsoft.Maui.Essentials.dll">
       <PackagePath>Microsoft.Maui.Essentials.dll</PackagePath>
-      <Modified>2022-06-07T19:55:34.000</Modified>
+      <Modified>2022-07-12T22:23:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\Microsoft.DiaSymReader.Native.amd64.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\Microsoft.DiaSymReader.Native.amd64.dll">
       <PackagePath>Microsoft.DiaSymReader.Native.amd64.dll</PackagePath>
       <Modified>2020-12-16T23:57:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\System.IO.Compression.Native.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\System.IO.Compression.Native.dll">
       <PackagePath>System.IO.Compression.Native.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-core-console-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-core-console-l1-1-0.dll">
       <PackagePath>api-ms-win-core-console-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-core-console-l1-2-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-core-console-l1-2-0.dll">
       <PackagePath>api-ms-win-core-console-l1-2-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-core-datetime-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-core-datetime-l1-1-0.dll">
       <PackagePath>api-ms-win-core-datetime-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-core-debug-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-core-debug-l1-1-0.dll">
       <PackagePath>api-ms-win-core-debug-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-core-errorhandling-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-core-errorhandling-l1-1-0.dll">
       <PackagePath>api-ms-win-core-errorhandling-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-core-fibers-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-core-fibers-l1-1-0.dll">
       <PackagePath>api-ms-win-core-fibers-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-core-file-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-core-file-l1-1-0.dll">
       <PackagePath>api-ms-win-core-file-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-core-file-l1-2-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-core-file-l1-2-0.dll">
       <PackagePath>api-ms-win-core-file-l1-2-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-core-file-l2-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-core-file-l2-1-0.dll">
       <PackagePath>api-ms-win-core-file-l2-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-core-handle-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-core-handle-l1-1-0.dll">
       <PackagePath>api-ms-win-core-handle-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-core-heap-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-core-heap-l1-1-0.dll">
       <PackagePath>api-ms-win-core-heap-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-core-interlocked-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-core-interlocked-l1-1-0.dll">
       <PackagePath>api-ms-win-core-interlocked-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-core-libraryloader-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-core-libraryloader-l1-1-0.dll">
       <PackagePath>api-ms-win-core-libraryloader-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-core-localization-l1-2-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-core-localization-l1-2-0.dll">
       <PackagePath>api-ms-win-core-localization-l1-2-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-core-memory-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-core-memory-l1-1-0.dll">
       <PackagePath>api-ms-win-core-memory-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-core-namedpipe-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-core-namedpipe-l1-1-0.dll">
       <PackagePath>api-ms-win-core-namedpipe-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-core-processenvironment-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-core-processenvironment-l1-1-0.dll">
       <PackagePath>api-ms-win-core-processenvironment-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-core-processthreads-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-core-processthreads-l1-1-0.dll">
       <PackagePath>api-ms-win-core-processthreads-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-core-processthreads-l1-1-1.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-core-processthreads-l1-1-1.dll">
       <PackagePath>api-ms-win-core-processthreads-l1-1-1.dll</PackagePath>
       <Modified>2021-09-11T20:05:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-core-profile-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-core-profile-l1-1-0.dll">
       <PackagePath>api-ms-win-core-profile-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-core-rtlsupport-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-core-rtlsupport-l1-1-0.dll">
       <PackagePath>api-ms-win-core-rtlsupport-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-core-string-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-core-string-l1-1-0.dll">
       <PackagePath>api-ms-win-core-string-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-core-synch-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-core-synch-l1-1-0.dll">
       <PackagePath>api-ms-win-core-synch-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-core-synch-l1-2-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-core-synch-l1-2-0.dll">
       <PackagePath>api-ms-win-core-synch-l1-2-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-core-sysinfo-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-core-sysinfo-l1-1-0.dll">
       <PackagePath>api-ms-win-core-sysinfo-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-core-timezone-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-core-timezone-l1-1-0.dll">
       <PackagePath>api-ms-win-core-timezone-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-core-util-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-core-util-l1-1-0.dll">
       <PackagePath>api-ms-win-core-util-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-crt-conio-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-crt-conio-l1-1-0.dll">
       <PackagePath>api-ms-win-crt-conio-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-crt-convert-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-crt-convert-l1-1-0.dll">
       <PackagePath>api-ms-win-crt-convert-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-crt-environment-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-crt-environment-l1-1-0.dll">
       <PackagePath>api-ms-win-crt-environment-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-crt-filesystem-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-crt-filesystem-l1-1-0.dll">
       <PackagePath>api-ms-win-crt-filesystem-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-crt-heap-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-crt-heap-l1-1-0.dll">
       <PackagePath>api-ms-win-crt-heap-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-crt-locale-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-crt-locale-l1-1-0.dll">
       <PackagePath>api-ms-win-crt-locale-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-crt-math-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-crt-math-l1-1-0.dll">
       <PackagePath>api-ms-win-crt-math-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-crt-multibyte-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-crt-multibyte-l1-1-0.dll">
       <PackagePath>api-ms-win-crt-multibyte-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-crt-private-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-crt-private-l1-1-0.dll">
       <PackagePath>api-ms-win-crt-private-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-crt-process-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-crt-process-l1-1-0.dll">
       <PackagePath>api-ms-win-crt-process-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-crt-runtime-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-crt-runtime-l1-1-0.dll">
       <PackagePath>api-ms-win-crt-runtime-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-crt-stdio-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-crt-stdio-l1-1-0.dll">
       <PackagePath>api-ms-win-crt-stdio-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-crt-string-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-crt-string-l1-1-0.dll">
       <PackagePath>api-ms-win-crt-string-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-crt-time-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-crt-time-l1-1-0.dll">
       <PackagePath>api-ms-win-crt-time-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\api-ms-win-crt-utility-l1-1-0.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\api-ms-win-crt-utility-l1-1-0.dll">
       <PackagePath>api-ms-win-crt-utility-l1-1-0.dll</PackagePath>
       <Modified>2021-09-11T20:05:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\clretwrc.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\clretwrc.dll">
       <PackagePath>clretwrc.dll</PackagePath>
-      <Modified>2022-04-13T17:28:56.000</Modified>
+      <Modified>2022-05-17T17:18:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\clrjit.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\clrjit.dll">
       <PackagePath>clrjit.dll</PackagePath>
-      <Modified>2022-04-13T17:23:04.000</Modified>
+      <Modified>2022-05-17T17:11:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\coreclr.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\coreclr.dll">
       <PackagePath>coreclr.dll</PackagePath>
-      <Modified>2022-04-13T17:31:36.000</Modified>
+      <Modified>2022-05-17T17:21:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\createdump.exe">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\createdump.exe">
       <PackagePath>createdump.exe</PackagePath>
-      <Modified>2022-04-13T17:28:32.000</Modified>
+      <Modified>2022-05-17T17:17:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\dbgshim.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\dbgshim.dll">
       <PackagePath>dbgshim.dll</PackagePath>
-      <Modified>2022-04-13T17:29:00.000</Modified>
+      <Modified>2022-05-17T17:18:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\hostfxr.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\hostfxr.dll">
       <PackagePath>hostfxr.dll</PackagePath>
-      <Modified>2022-04-13T18:11:12.000</Modified>
+      <Modified>2022-05-17T17:53:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\hostpolicy.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\hostpolicy.dll">
       <PackagePath>hostpolicy.dll</PackagePath>
-      <Modified>2022-04-13T18:11:42.000</Modified>
+      <Modified>2022-05-17T17:53:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\mscordaccore.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\mscordaccore.dll">
       <PackagePath>mscordaccore.dll</PackagePath>
-      <Modified>2022-04-13T17:37:56.000</Modified>
+      <Modified>2022-05-17T17:28:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\mscordaccore_amd64_amd64_6.0.522.21309.dll">
-      <PackagePath>mscordaccore_amd64_amd64_6.0.522.21309.dll</PackagePath>
-      <Modified>2022-04-13T17:38:56.000</Modified>
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\mscordaccore_amd64_amd64_6.0.622.26707.dll">
+      <PackagePath>mscordaccore_amd64_amd64_6.0.622.26707.dll</PackagePath>
+      <Modified>2022-05-17T17:28:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\mscordbi.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\mscordbi.dll">
       <PackagePath>mscordbi.dll</PackagePath>
-      <Modified>2022-04-13T17:37:58.000</Modified>
+      <Modified>2022-05-17T17:28:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\mscorrc.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\mscorrc.dll">
       <PackagePath>mscorrc.dll</PackagePath>
-      <Modified>2022-04-13T17:29:08.000</Modified>
+      <Modified>2022-05-17T17:18:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\msquic.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\msquic.dll">
       <PackagePath>msquic.dll</PackagePath>
-      <Modified>2022-04-13T17:37:20.000</Modified>
+      <Modified>2022-05-17T17:20:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.5\runtimes\win-x64\native\ucrtbase.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\native\ucrtbase.dll">
       <PackagePath>ucrtbase.dll</PackagePath>
       <Modified>2021-09-11T20:05:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.25\lib\Microsoft.Windows.SDK.NET.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.26\lib\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
-      <Modified>2022-04-13T00:46:34.000</Modified>
+      <Modified>2022-06-14T01:02:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.25\lib\WinRT.Runtime.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.26\lib\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
-      <Modified>2022-04-13T00:46:32.000</Modified>
+      <Modified>2022-06-14T01:02:02.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\firebasedatabase.net\4.0.7\lib\netstandard2.0\Firebase.dll">
       <PackagePath>Firebase.dll</PackagePath>
@@ -1018,49 +1018,49 @@
       <PackagePath>Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll</PackagePath>
       <Modified>2022-06-06T15:46:36.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.1\lib\net5.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll">
       <PackagePath>Microsoft.InteractiveExperiences.Projection.dll</PackagePath>
-      <Modified>2022-05-11T01:16:20.000</Modified>
+      <Modified>2022-06-07T04:34:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.WinUI.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.1\lib\net5.0-windows10.0.18362.0\Microsoft.WinUI.dll">
       <PackagePath>Microsoft.WinUI.dll</PackagePath>
-      <Modified>2022-06-01T19:16:48.000</Modified>
+      <Modified>2022-06-08T20:51:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.AppLifecycle.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.1\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.AppLifecycle.Projection.dll">
       <PackagePath>Microsoft.Windows.AppLifecycle.Projection.dll</PackagePath>
-      <Modified>2022-06-01T17:09:02.000</Modified>
+      <Modified>2022-06-08T18:27:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.AppNotifications.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.1\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.AppNotifications.Projection.dll">
       <PackagePath>Microsoft.Windows.AppNotifications.Projection.dll</PackagePath>
-      <Modified>2022-06-01T17:09:02.000</Modified>
+      <Modified>2022-06-08T18:27:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.1\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll">
       <PackagePath>Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll</PackagePath>
-      <Modified>2022-06-01T17:09:02.000</Modified>
+      <Modified>2022-06-08T18:27:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.Resources.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.1\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.Resources.Projection.dll">
       <PackagePath>Microsoft.Windows.ApplicationModel.Resources.Projection.dll</PackagePath>
-      <Modified>2022-06-01T17:09:02.000</Modified>
+      <Modified>2022-06-08T18:27:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.1\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll">
       <PackagePath>Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll</PackagePath>
-      <Modified>2022-06-01T17:09:02.000</Modified>
+      <Modified>2022-06-08T18:27:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.PushNotifications.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.1\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.PushNotifications.Projection.dll">
       <PackagePath>Microsoft.Windows.PushNotifications.Projection.dll</PackagePath>
-      <Modified>2022-06-01T17:09:02.000</Modified>
+      <Modified>2022-06-08T18:27:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.System.Power.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.1\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.System.Power.Projection.dll">
       <PackagePath>Microsoft.Windows.System.Power.Projection.dll</PackagePath>
-      <Modified>2022-06-01T17:09:02.000</Modified>
+      <Modified>2022-06-08T18:27:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.System.Projection.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.1\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.System.Projection.dll">
       <PackagePath>Microsoft.Windows.System.Projection.dll</PackagePath>
-      <Modified>2022-06-01T17:09:02.000</Modified>
+      <Modified>2022-06-08T18:27:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.0\lib\net5.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.1\lib\net5.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
-      <Modified>2022-06-01T17:09:02.000</Modified>
+      <Modified>2022-06-08T18:27:34.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\newtonsoft.json\11.0.2\lib\netstandard2.0\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
@@ -1078,33 +1078,25 @@
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
       <Modified>2022-04-28T15:57:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.0\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
+    <AppxPackagedFile Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.1\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
-      <Modified>2022-06-01T17:09:02.000</Modified>
+      <Modified>2022-06-08T18:27:34.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Hakawati.deps.json">
       <PackagePath>Hakawati.deps.json</PackagePath>
-      <Modified>2022-07-27T20:22:45.704</Modified>
+      <Modified>2022-07-31T17:05:56.826</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.400\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
+    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.419\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
-      <Modified>2022-06-07T19:45:12.000</Modified>
+      <Modified>2022-07-12T22:14:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.400\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.pri">
+    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.419\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.pri">
       <PackagePath>Microsoft.Maui.Controls.pri</PackagePath>
-      <Modified>2022-06-07T19:44:22.000</Modified>
+      <Modified>2022-07-12T22:14:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.400\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Xaml.pri">
-      <PackagePath>Microsoft.Maui.Controls.Xaml.pri</PackagePath>
-      <Modified>2022-06-07T19:45:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Core.Ref.win\6.0.400\ref\net6.0-windows10.0.19041\Microsoft.Maui.pri">
+    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Core.Ref.win\6.0.419\ref\net6.0-windows10.0.19041\Microsoft.Maui.pri">
       <PackagePath>Microsoft.Maui.pri</PackagePath>
-      <Modified>2022-06-07T19:43:10.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Essentials.Ref.win\6.0.400\ref\net6.0-windows10.0.19041\Microsoft.Maui.Essentials.pri">
-      <PackagePath>Microsoft.Maui.Essentials.pri</PackagePath>
-      <Modified>2022-06-07T19:42:56.000</Modified>
+      <Modified>2022-07-12T22:12:34.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -1112,43 +1104,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\rockSplashScreen.scale-100.png">
       <PackagePath>rockSplashScreen.scale-100.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.172</Modified>
+      <Modified>2022-07-31T17:01:45.774</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\rockSplashScreen.scale-125.png">
       <PackagePath>rockSplashScreen.scale-125.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.196</Modified>
+      <Modified>2022-07-31T17:01:45.797</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\rockSplashScreen.scale-150.png">
       <PackagePath>rockSplashScreen.scale-150.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.223</Modified>
+      <Modified>2022-07-31T17:01:45.840</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\rockSplashScreen.scale-200.png">
       <PackagePath>rockSplashScreen.scale-200.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.265</Modified>
+      <Modified>2022-07-31T17:01:45.918</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\rockSplashScreen.scale-400.png">
       <PackagePath>rockSplashScreen.scale-400.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.436</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
-      <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.313</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
-      <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.328</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
-      <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.350</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
-      <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.382</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
-      <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2022-07-08T09:50:14.582</Modified>
+      <Modified>2022-07-31T17:01:46.290</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -1160,147 +1132,147 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2022-07-08T20:59:46.538</Modified>
+      <Modified>2022-07-31T17:01:46.466</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.983</Modified>
+      <Modified>2022-07-31T17:01:46.932</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2022-07-08T20:59:47.006</Modified>
+      <Modified>2022-07-31T17:01:46.959</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2022-07-08T20:59:47.035</Modified>
+      <Modified>2022-07-31T17:01:46.978</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2022-07-08T20:59:47.079</Modified>
+      <Modified>2022-07-31T17:01:47.016</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2022-07-08T20:59:47.205</Modified>
+      <Modified>2022-07-31T17:01:47.132</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.568</Modified>
+      <Modified>2022-07-31T17:01:46.494</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.574</Modified>
+      <Modified>2022-07-31T17:01:46.503</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.581</Modified>
+      <Modified>2022-07-31T17:01:46.513</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.588</Modified>
+      <Modified>2022-07-31T17:01:46.520</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.604</Modified>
+      <Modified>2022-07-31T17:01:46.538</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.740</Modified>
+      <Modified>2022-07-31T17:01:46.659</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.754</Modified>
+      <Modified>2022-07-31T17:01:46.673</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.770</Modified>
+      <Modified>2022-07-31T17:01:46.690</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.791</Modified>
+      <Modified>2022-07-31T17:01:46.711</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.837</Modified>
+      <Modified>2022-07-31T17:01:46.756</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.671</Modified>
+      <Modified>2022-07-31T17:01:46.594</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.681</Modified>
+      <Modified>2022-07-31T17:01:46.601</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.689</Modified>
+      <Modified>2022-07-31T17:01:46.614</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.704</Modified>
+      <Modified>2022-07-31T17:01:46.625</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.725</Modified>
+      <Modified>2022-07-31T17:01:46.646</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.614</Modified>
+      <Modified>2022-07-31T17:01:46.549</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.625</Modified>
+      <Modified>2022-07-31T17:01:46.555</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.639</Modified>
+      <Modified>2022-07-31T17:01:46.567</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.646</Modified>
+      <Modified>2022-07-31T17:01:46.573</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.661</Modified>
+      <Modified>2022-07-31T17:01:46.584</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.849</Modified>
+      <Modified>2022-07-31T17:01:46.778</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.861</Modified>
+      <Modified>2022-07-31T17:01:46.791</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.882</Modified>
+      <Modified>2022-07-31T17:01:46.808</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.908</Modified>
+      <Modified>2022-07-31T17:01:46.833</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.965</Modified>
+      <Modified>2022-07-31T17:01:46.908</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.601</Modified>
+      <Modified>2022-07-31T17:01:46.536</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.623</Modified>
+      <Modified>2022-07-31T17:01:46.562</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.656</Modified>
+      <Modified>2022-07-31T17:01:46.596</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.702</Modified>
+      <Modified>2022-07-31T17:01:46.640</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.816</Modified>
+      <Modified>2022-07-31T17:01:46.735</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\image.scale-100.jpg">
       <PackagePath>image.scale-100.jpg</PackagePath>
@@ -1308,59 +1280,59 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\rock.scale-100.png">
       <PackagePath>rock.scale-100.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.532</Modified>
+      <Modified>2022-07-31T17:01:46.479</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\rock.scale-125.png">
       <PackagePath>rock.scale-125.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.583</Modified>
+      <Modified>2022-07-31T17:01:46.545</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\rock.scale-150.png">
       <PackagePath>rock.scale-150.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.660</Modified>
+      <Modified>2022-07-31T17:01:46.617</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\rock.scale-200.png">
       <PackagePath>rock.scale-200.png</PackagePath>
-      <Modified>2022-07-08T20:59:46.806</Modified>
+      <Modified>2022-07-31T17:01:46.750</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\rock.scale-400.png">
       <PackagePath>rock.scale-400.png</PackagePath>
-      <Modified>2022-07-08T20:59:47.211</Modified>
+      <Modified>2022-07-31T17:01:47.141</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
-    <ResolvedSDKReference Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.0\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.1.msix">
+    <ResolvedSDKReference Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.1\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.1.msix">
       <Name>Microsoft.WindowsAppRuntime.1.1</Name>
-      <Version>1000.516.2156.0</Version>
+      <Version>1001.524.1918.0</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.1, MinVersion = 1000.516.2156.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.0\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.1.msix</AppxLocation>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.1, MinVersion = 1001.524.1918.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.1\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.1.msix</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.0\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.1.msix">
+    <ResolvedSDKReference Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.1\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.1.msix">
       <Name>Microsoft.WindowsAppRuntime.1.1</Name>
-      <Version>1000.516.2156.0</Version>
+      <Version>1001.524.1918.0</Version>
       <Architecture>win32</Architecture>
-      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.1, MinVersion = 1000.516.2156.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.0\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.1.msix</AppxLocation>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.1, MinVersion = 1001.524.1918.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.1\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.1.msix</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.0\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.1.msix">
+    <ResolvedSDKReference Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.1\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.1.msix">
       <Name>Microsoft.WindowsAppRuntime.1.1</Name>
-      <Version>1000.516.2156.0</Version>
+      <Version>1001.524.1918.0</Version>
       <Architecture>x64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.1, MinVersion = 1000.516.2156.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.0\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.1.msix</AppxLocation>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.1, MinVersion = 1001.524.1918.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.1\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.1.msix</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.0\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.1.msix">
+    <ResolvedSDKReference Include="C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.1\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.1.msix">
       <Name>Microsoft.WindowsAppRuntime.1.1</Name>
-      <Version>1000.516.2156.0</Version>
+      <Version>1001.524.1918.0</Version>
       <Architecture>arm64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.1, MinVersion = 1000.516.2156.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.0\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.1.msix</AppxLocation>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.1, MinVersion = 1001.524.1918.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Lilia\.nuget\packages\microsoft.windowsappsdk\1.1.1\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.1.msix</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>

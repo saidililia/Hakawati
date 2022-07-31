@@ -1,4 +1,6 @@
-﻿namespace Hakawati;
+﻿using Hakawati.Views;
+
+namespace Hakawati;
 
 public partial class App : Application
 {
@@ -6,6 +8,22 @@ public partial class App : Application
 	{
 		InitializeComponent();
 
-		MainPage = new MainPage();
+		MainPage = new NavigationPage(new MainPage());
 	}
+
+	// what are these i've got no idea
+	protected override void OnStart()
+	{
+		 
+	}
+
+    protected override void OnSleep()
+    {
+         
+    }
+
+    protected override void OnResume()
+    {
+         
+    }
 }

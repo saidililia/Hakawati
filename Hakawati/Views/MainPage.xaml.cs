@@ -1,6 +1,7 @@
 ﻿using Firebase.Database;
 using Firebase.Database.Query;
 using Hakawati.Models;
+using Hakawati.Views;
 
 namespace Hakawati;
 
@@ -16,7 +17,7 @@ public partial class MainPage : ContentPage
 
 	private void ImageButton_Clicked(object sender, EventArgs e)
 	{
-		 
+		Navigation.PushAsync(new StoryView());
 	}
 
 	private void GetAll(object sender, EventArgs e)

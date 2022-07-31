@@ -11,8 +11,6 @@ namespace Hakawati.Models
         public string Name { get; set; }
         public String MainImage { get; set; }
 
-         
-
 
     }
 }

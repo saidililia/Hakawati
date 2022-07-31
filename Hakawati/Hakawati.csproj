@@ -49,9 +49,19 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <MauiXaml Remove="Views\StoryView.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
 	  <None Remove="Resources\Images\image.jpg" />
 	  <None Remove="Resources\Images\Rock.svg" />
 	  <None Remove="Resources\Splash\2022-04_LSVG_RTR-46.svg" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <EmbeddedResource Include="Views\StoryView.xaml">
+	    <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+	  </EmbeddedResource>
 	</ItemGroup>
 
 	<ItemGroup>
