@@ -1,7 +1,6 @@
 ﻿using Firebase.Database;
 using Firebase.Database.Query;
 using Hakawati.Models;
-using Hakawati.Views;
 
 namespace Hakawati;
 
@@ -19,12 +18,6 @@ public partial class MainPage : ContentPage
 	{
 		Navigation.PushAsync(new StoryView());
 	}
-
-	private void GetAll(object sender, EventArgs e)
-	{
-
-	}
-
 	private void Add(object sender, EventArgs e)
 	{
 		firebase.Child("Stories").PostAsync(new Story

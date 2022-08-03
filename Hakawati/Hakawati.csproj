@@ -49,8 +49,10 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <MauiXaml Remove="Views\StoryView.xaml" />
+	  <MauiXaml Remove="Views\TabbedPage1.xaml" />
 	</ItemGroup>
+
+	
 
 	<ItemGroup>
 	  <None Remove="Resources\Images\image.jpg" />
@@ -58,11 +60,15 @@
 	  <None Remove="Resources\Splash\2022-04_LSVG_RTR-46.svg" />
 	</ItemGroup>
 
+	
+
 	<ItemGroup>
-	  <EmbeddedResource Include="Views\StoryView.xaml">
+	  <EmbeddedResource Include="Views\TabbedPage1.xaml">
 	    <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
 	  </EmbeddedResource>
 	</ItemGroup>
+
+	
 
 	<ItemGroup>
 	  <PackageReference Include="FirebaseDatabase.net" Version="4.0.7" />

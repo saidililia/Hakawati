@@ -39,3 +39,6 @@ C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-maccatalyst\maccata
 C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\Hakawati.AssemblyInfoInputs.cache
 C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\Hakawati.AssemblyInfo.cs
 C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\Hakawati.csproj.CoreCompileInputs.cache
+C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\Hakawati.dll
+C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\refint\Hakawati.dll
+C:\Users\Lilia\Desktop\HakawatiApp\Hakawati\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\Hakawati.pdb
